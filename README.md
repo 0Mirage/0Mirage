@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="left">🧪 I'm currently working on qtile dotfile</h4>
+<h5 align="left">🧪 I'm currently working on qtile dotfile</h5>
 
 ###
 
@@ -49,5 +49,21 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
 </div>
+
+###
+
+<h3 align="left">Social networks</h3>
+
+###
+
+<div align="left">
+  <a href="https://discord.gg/QFTaZj5ppQ" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/0Mirage/0Mirage/output/snake.svg" alt="Snake animation" />
 
 ###
