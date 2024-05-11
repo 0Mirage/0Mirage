@@ -76,4 +76,10 @@
 
 ###
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=317cqkyhro6wbqlegl6sovyostmm)
+###
+
+<div align="center">
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=317cqkyhro6wbqlegl6sovyostmm)
+</div>
+
+###
