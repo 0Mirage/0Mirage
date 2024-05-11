@@ -8,7 +8,7 @@
 
 ###
 
-<h5 align="left">🧪 I'm currently working on qtile dotfile</h5>
+<h2 align="left">🧪 I'm currently working on qtile dotfile</h2>
 
 ###
 
